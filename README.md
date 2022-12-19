@@ -43,5 +43,5 @@
 
 <h3 align="left">Tecnologias:</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/-Cypress-green?style=for-the-badge&logo=cypress" alt="cypress"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"><img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"><img src="https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=cypress" alt="ruby"> 
+    <img src="https://img.shields.io/badge/-Cypress-green?style=for-the-badge&logo=cypress" alt="cypress"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"><img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </div>
