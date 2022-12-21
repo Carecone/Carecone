@@ -37,7 +37,7 @@
 </p>
 
 <p>
-    Hoje atuo como Quality Assurance Júnior no Banco Carrefour, onde trabalho na aquisição de novos clientes que utilizam maquininhas de crédito.    
+    Hoje atuo como Quality Assurance Júnior no Banco Carrefour, onde trabalho na aquisição de novos clientes.
 </p>
 </div>
 
