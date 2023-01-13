@@ -22,7 +22,7 @@
             Univesidade: Análise e Desenvolvimento de Sistemas - Fatec
         </li>
         <li>
-            QA júnior na
+            QA na
             <a href="https://www.linkedin.com/company/veritydigital/">Verity</a>
         </li>
     <ul>
@@ -37,7 +37,7 @@
 </p>
 
 <p>
-    Hoje atuo como Quality Assurance Júnior no Banco Carrefour, onde trabalho na aquisição de novos clientes.
+    Atualmente estou alocado em um cliente e atuando como QA.
 </p>
 </div>
 
