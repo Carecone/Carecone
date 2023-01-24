@@ -19,7 +19,7 @@
             Localização: Guararapes, São Paulo
         </li>
         <li>
-            Univesidade: Análise e Desenvolvimento de Sistemas - Fatec
+            Universidade: Análise e Desenvolvimento de Sistemas - Fatec
         </li>
         <li>
             QA na
