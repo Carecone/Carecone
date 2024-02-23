@@ -21,10 +21,6 @@
         <li>
             Universidade: Análise e Desenvolvimento de Sistemas - Fatec
         </li>
-        <li>
-            QA na
-            <a href="https://www.linkedin.com/company/veritydigital/">Verity</a>
-        </li>
     <ul>
 </div>
 <h2> O que estou fazendo no momento? </h2>
