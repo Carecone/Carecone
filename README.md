@@ -13,7 +13,7 @@
             Nome: Diego Souza
         </li>
         <li>
-            Idade: 23
+            Idade: 24
         </li>
         <li>
             Localização: Guararapes, São Paulo
@@ -33,7 +33,7 @@
 </p>
 
 <p>
-    Atualmente estou alocado em um cliente e atuando como QA.
+    Atualmente atuo em uma empresa do ramo do Varejo.
 </p>
 </div>
 
